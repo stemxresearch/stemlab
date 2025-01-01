@@ -1,0 +1,44 @@
+dataset,                    application
+cotes_n8,                   Newton-Cotes numerical integration
+scores,                     Comparison of means
+health,                     Data wrangling: Chapter 6
+health_new,                 Data wrangling: Chapter 6
+NE,                         Data wrangling: Chapter 7
+NE1,                        Data wrangling: Chapter 7
+NW,                         Data wrangling: Chapter 7
+South,                      Data wrangling: Chapter 7
+West,                       Data wrangling: Chapter 7
+West1,                      Data wrangling: Chapter 7
+gold,                       Data wrangling: Chapter 7
+silver,                     Data wrangling: Chapter 7
+bronze,                     Data wrangling: Chapter 7
+nhanes,                     Exploratory data analysis
+unstack,                    Stack and unstack DataFrames
+income,                     DataFrame methods
+income2,                    DataFrame methods
+staff,                      Basic DataFrame manipulation
+staff_presuffix,            Basic DataFrame manipulation
+staff_new,                  Basic DataFrame manipulation
+staff2,                     xxx
+col_names,                  Basic DataFrame manipulation
+staff_renamed,              Basic DataFrame manipulation
+cancer,                     Transpose DataFrames
+cancer2,                    Transpose DataFrames
+income_wide,                Reshape DataFrames
+income_long,                Reshape DataFrames    
+kids_wide,                  Reshape DataFrames
+kids_long,                  Reshape DataFrames
+cash_transfer,              Data cleaning
+cash_transfer2,             Data cleaning
+cash_columns,               Data cleaning
+data_dup,                   Data cleaning
+medals,                     String manipulation
+employees,                  Transform strings
+clean_values,               xxxx
+countries,                  xxxx
+sales,                      xxxx
+dm_data_random,				xxxx
+df_income4,                 xxxx
+simpson38,                  xxxx
+boole,                  xxxx
+weddle,xxxx

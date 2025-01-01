@@ -1,0 +1,11 @@
+old_names,new_names
+Unique ID,id
+Date of registration,reg_date
+Date of birth,birth_date
+Number of people in household,hh_size
+Monthly income,income
+Cash tranfer: January,cash_jan
+Cash tranfer: February,cash_feb
+Cash tranfer: March,cash_mar
+Cash tranfer: April,cash_apr
+Cash tranfer: May,cash_may

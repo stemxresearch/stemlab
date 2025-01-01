@@ -1,0 +1,23 @@
+old_varnames,new_varnames
+Employment ID,emp_id
+Date of birth,birth_date
+Date of employment,emp_date
+"County, city",country
+Sex,sex
+Married or not,married
+Highest level of education,education
+Experience in years,experience
+Sacco member,sacco_member
+Annual income in KES,annual_income
+Which programming laguages have you used?,prog_languages
+Programming: Python,prog_python
+Programming: Java,prog_java
+Programming: C++,prog_cplus
+Programming: JavaScript,prog_javascript
+Programming: Others,prog_others
+List cloud platforms that you have heard of,cloud_platforms
+Publications in 2018,pub_2018
+Publications in 2019,pub_2019
+Publications in 2020,pub_2020
+Publications in 2021,pub_2021
+Publications in 2022,pub_2022

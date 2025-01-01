@@ -1,0 +1,2 @@
+recursive-include stemlab/datasets/csv *.csv
+recursive-include stemlab/datasets/stata *.dta

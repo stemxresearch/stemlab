@@ -1,0 +1,25 @@
+country,sex,age_group,married,education,annual_income,python,java,cplusplus,javascript,cloud_platforms
+"Egypt, Cairo",Female,46-50,Yes,Masters,547992,No,No,No,No,"Google, AWS, Azure"
+"Nigeria, Abuja",Male,31-35,No,Bachelors,,Yes,No,No,No,"Oracle, Azure, AWS"
+"Nigeria, Abuja",Male,41-45,Yes,Masters,266232,Yes,No,Yes,No,"IBM, Google, AWS"
+"Kenya, Nairobi",Female,31-35,Yes,Doctoral,346296,Yes,Yes,Yes,No,"Google, Oracle"
+"Rwanda, Kigali",Male,56-60,Yes,Doctoral,395396,No,No,No,No,"Google, AWS, Azure"
+"Nigeria, Abuja",Male,26-30,No,Masters,402064,Yes,No,No,Yes,"AWS, Google"
+"Kenya, Nairobi",Female,51-55,No,Doctoral,266232,Yes,Yes,No,No,AWS
+"Kenya, Nairobi",Male,18-25,No,Masters,290112,No,Yes,No,Yes,"IBM, Azure, Oracle"
+"Nigeria, Abuja",Male,46-50,Yes,Masters,,Yes,No,No,No,Oracle
+"Egypt, Cairo",Female,36-40,Yes,Bachelors,453472,Yes,No,No,Yes,Google
+"Nigeria, Abuja",Male,46-50,No,Bachelors,287412,No,No,Yes,Yes,Digital Ocean
+"Rwanda, Kigali",Male,18-25,No,Bachelors,445668,Yes,No,No,Yes,Google
+"Rwanda, Kigali",Male,36-40,Yes,Doctoral,348396,No,No,No,No,"Azure, Google"
+"Egypt, Cairo",Male,26-30,No,Masters,354108,Yes,Yes,No,Yes,Azure
+"Rwanda, Kigali",Male,56-60,Yes,Doctoral,398700,No,Yes,No,No,"AWS, Azure, IBM"
+"Nigeria, Abuja",Male,26-30,No,Bachelors,,No,Yes,No,Yes,"Oracle, AWS"
+"Egypt, Cairo",Female,41-45,Yes,Masters,527736,Yes,No,Yes,Yes,"Oracle, AWS"
+"Nigeria, Abuja",Female,31-35,No,Doctoral,255948,Yes,Yes,Yes,Yes,Digital Ocean
+"Kenya, Nairobi",Female,41-45,Yes,Bachelors,527736,Yes,No,No,No,AWS
+"Kenya, Nairobi",Male,26-30,Yes,Masters,383040,No,Yes,No,No,"Oracle, AWS"
+"Nigeria, Abuja",Female,36-40,Yes,Masters,305124,Yes,Yes,Yes,No,AWS
+"Rwanda, Kigali",Female,31-35,No,Bachelors,,Yes,No,Yes,Yes,Oracle
+"Egypt, Cairo",Female,41-45,Yes,Masters,527736,Yes,No,Yes,Yes,"Oracle, AWS"
+"Nigeria, Abuja",Male,31-35,No,Bachelors,428628,No,No,No,No,"AWS, Azure, Google"

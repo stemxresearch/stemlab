@@ -1,0 +1,28 @@
+emp_no,birth_date,emp_date,country_city,gender,married,education,experience,sacco_member,income,prog_languages,prog_python,prog_java,prog_cplus,prog_javascript,prog_others,cloud_platforms,pub_2018,pub_2019,pub_2020,pub_2021,pub_2022
+STM/5586/2014,1980-12-21,2014-04-22T16:23:35,"Nigeria, Abuja",Female,Yes,Masters,8.0,No,KES 547992,,no,No,No,No,"Excel, R",google,,1.0,2.0,0.0,
+STM/5215/2013,1992-10-04,2013-03-29T13:55:38,"Nigeria, Abuja",Male,No,Bachelors,8.0,yes,,,Yes,no,N,no,,Oracle,22.0,0.0,,1.0,1.0
+,,,,,,,,,,,,,,,,,,,,,
+STM/5663/2018,1980-09-07,2018-10-28T14:47:41,"Nigeria, Abuja",Male,Yes,Master,6.0,Yes,KES 266232,,yes,no,Yes,No,,ibm,,0.0,0.0,3.0,
+STM/5604/2012,1979-07-07,2012-03-02T12:26:36,"Kenya, Nairobi",Male,Y,Doctoral,9.0,No,Ksh. 346296,,yes,Yes,yes,No,"Excel, R",google,2.0,4.0,6.0,0.0,4.0
+STM/5037/2013,1979-12-14,2013-07-15T15:49:28,"South Africa, J'berg",Male,Yes,PhD,15.0,Yes,KES 348396,,No,No,N,No,,AWS,,4.0,3.0,5.0,2.0
+,,,,,,,,,,,,,,,,,,,,,
+STM/5614/2015,1984-03-27,2015-02-02T10:37:34,"Nigeria, Abuja",Male,No,MSc,6.0,yes,KES 272064,,Yes,No,N,Yes,R,"AWS, Google",1.0,1.0,1.0,1.0,2.0
+STM/5719/2010,1984-12-31,2010-06-16T12:51:33,"Kenya, Narobi",Female,Single,Doctoral,12.0,Yes,sh. 266232,,yes,yes,No,No,Matlab,"Google, AWS, Azure",0.0,0.0,4.0,4.0,2.0
+STM/5219/2017,1987-06-19,2017-09-17T14:13:43,"Kenya, Nairobi",Male,Yes,Masters,9.0,Yes,Ksh 290112,,No,yes,No,Yes,,IBM,0.0,2.0,4.0,3.0,1.0
+STM/5215/2013,1992-10-04,2013-03-29T13:55:38,"Nigeria, Abuja",Male,No,Masters,8.0,yes,,,Yes,no,N,no,,Oracle,22.0,0.0,,1.0,1.0
+STM/5777/2018,1979-04-20,2018-03-25T15:41:45,"South Africa, J'berg",Male,No,Bachelors,15.0,No,-,,Yes,no,N,Yes,Matlab,Google Platform,0.0,,0.0,4.0,0.0
+STM/5351/2018,1992-10-16,2018-02-25T10:44:19,"Nigeria, Abuja",Male,No,Bachelors,8.0,No,KES 287412,,No,No,Yes,Yes,R,Digital ocean,,0.0,5.0,0.0,1.0
+STM/5777/2018,1979-04-20,2018-03-25T15:41:45,"South Africa, J'berg",Male,No,Bachelors,15.0,No,445668 shillings,,Yes,no,N,Yes,Matlab,Google Platform,0.0,,0.0,4.0,0.0
+STM/5037/2013,1979-12-14,2013-07-15T15:49:28,"South Africa, J'berg",Male,Yes,PhD,15.0,Yes,KES 348396,,No,No,N,No,,AWS,,4.0,3.0,5.0,2.0
+STM/5927/2015,1991-06-25,2015-09-17T14:17:47,"Egypt, Cairo",Male,No,MSc,11.0,Yes,KES 354108,,Yes,Yes,No,Yes,,AWS,2.0,4.0,,3.0,0.0
+STM/5050/2015,1979-03-31,2015-11-20T11:35:46,"Egypt, Cairo",Male,Divorced,PhD,7.0,Yes,KES 398700,,No,yes,No,No,,AWS,3.0,0.0,0.0,5.0,1.0
+STM/5085/2016,1978-03-02,2016-10-15T10:29:27,"Nigeria, Lagos",Male,Divorced,Bachelers,10.0,Yes,KES 353472,,N,Yes,No,yes,"Excel, R","oracle, AWS",0.0,0.0,3.0,3.0,1.0
+STM/5729/2016,1982-09-14,2016-10-16T11:45:17,"Egypt, Cairo",Female,Y,Masters,6.0,Yes,KES 527736,,Yes,no,yes,Yes,"Excel, R","oracle, AWS",0.0,2.0,97.0,4.0,0.0
+STM/5141/2018,1983-05-02,2018-02-13T11:22:49,"Nigeria, Abuja",Female,No,PhD,6.0,yes,KES 255948,,Yes,Yes,TRUE,yes,,Digital ocean,3.0,4.0,6.0,0.0,3.0
+STM/5074/2013,1990-08-01,2013-07-28T13:48:24,"Kenya, Nairobi",Female,Yes,Bachelors,14.0,yes,527736/=,,Yes,no,No,No,,AWS,1.0,0.0,2.0,1.0,2.0
+STM/5861/2018,1985-06-06,2018-01-26T13:15:44,"Kenya, Narobi",Male,Yes,Master,11.0,Yes,KES 383040,,N,yes,No,No,,"oracle, AWS",64.0,0.0,5.0,0.0,
+STM/5464/2012,1981-03-20,2012-01-06T13:25:21,"Nigeria, Abuja",Female,,Master,5.0,Yes,KES 395124,,yes,Yes,Yes,No,,Amazon Web Services,0.0,4.0,85.0,3.0,0.0
+STM/5769/2015,1991-09-19,2015-05-07T10:54:23,"South Africa, Johanesberg",Female,,Bachelers,12.0,Yes,KES 304008,,Yes,no,yes,Yes,,Oracle,0.0,,54.0,3.0,0.0
+STM/5729/2016,1982-09-14,2016-10-16T11:45:17,"Egypt, Cairo",Female,Y,Masters,6.0,Yes,KES 527736,,Yes,no,yes,Yes,"Excel, R","oracle, AWS",0.0,2.0,97.0,4.0,0.0
+STM/5825/2010,1986-10-23,2010-08-26T10:50:50,"Nigeria, Lagos",Male,Y,Bachelors,15.0,yes,KES 428628,,yes,No,N,No,"Excel, R","Google, AWS, Azure",0.0,0.0,0.0,3.0,2.0
+,,,,,,,,,,,,,,,,,,,,,

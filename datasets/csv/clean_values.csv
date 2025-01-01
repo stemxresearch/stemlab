@@ -1,0 +1,36 @@
+variable,wrong_value,correct_value
+country,Kenya,"Kenya, Nairobi"
+,"Kenya, Narobi","Kenya, Nairobi"
+,"Nigeria, Lagos","Nigeria, Abuja"
+sex,Femle,Female
+,Femle,Female
+,F,Female
+,Mael,Male
+,M,Male
+,male,Male
+married,Divorced,No
+,Single,No
+,Widowed,No
+,Y,Yes
+education,Bachelers,Bachelors
+,Doctorial,Doctoral
+,PhD,Doctoral
+,Phd,Doctoral
+,MSc,Masters
+,Msc,Masters
+,Master,Masters
+.global,Y,Yes
+,True,Yes
+,N,No
+,yes,Yes
+,no,No
+cloud_platforms,Amazon Web Services,AWS
+,Amazon,AWS
+,Google Platform,Google
+,google,Google
+,Microsoft Azure,Azure
+,Ibm,IBM
+,Digital ocean,Digital Ocean
+,"oracle, AWS","Oracle, AWS"
+,Aws,AWS
+,"Oracle, Amazon","Oracle, AWS"

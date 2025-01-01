@@ -1,0 +1,25 @@
+country,sex,age_group,married,education,annual_income,python,java,cplusplus,javascript,cloud_platforms
+"Egypt, Cairo",Female ,46-50,Yes,Masters,KES 547992,no,No,No,No ,"Google, AWS, Azure"
+"Nigeria, Abuja",M,31-35,No,    Masters,NA ,Yes,no,N,no,"Oracle, Azure, AWS"
+"Nigeria, Abuja",Male,41-45,Yes,Master,KES 266232,yes,no,Yes,No,"ibm, Google, AWS"
+"Kenya, Nairobi",    Female,31-35,Y,Doctoral,Ksh. 346296,yes, Yes,yes, No,"google, oracle"
+"Rwanda, Kigali",male,56-60,Yes,PhD,KES   395396,No,No,N,No,"Google, AWS, Azure"
+"Nigeria, Abuja",  Male,26-30,No,MSc,KES 402064,Yes,No,N,Yes,"AWS, Google"
+"Kenya, Narobi",Femle,51-55,Widowed,  Doctoral,sh. 266232,yes ,yes,No,No,AWS
+" Kenya, Nairobi",Male  ,18-25,No,Masters,Ksh 290112,No,yes,No,Yes ,"IBM, Azure, Oracle"
+"Nigeria, Abuja",Mael,46-50,Y,Masters   ,NA ,Yes,no,N,no,Oracle
+"Egypt, Cairo ",Female,36-40,Yes,Bachelors,KES 453472,Yes,no,N,Yes,Google    Platform
+"Nigeria, Abuja",  Male,46-50,Divorced,Bachelors,KES 287412,No,No,Yes , Yes,Digital     ocean
+"Rwanda, Kigali",Male,18-25,No,Bachelors,445668 shillings,Yes, no,N,Yes,Google Platform   
+"Rwanda, Kigali",Male  ,36-40,Yes,PhD  ,KES 348396,No,No,N,No,"Azure, Google"
+"Egypt, Cairo",    Male,26-30,No,MSc,KES 354108,Yes,Yes,No,Yes,Microsoft Azure
+"Rwanda, Kigali",Male,56-60,Y,PhD,KES 398700,No,yes,No,No,"AWS, Azure, IBM"
+"Nigeria, Lagos  ",Male,26-30,   Divorced,Bachelers,-,N,Yes,No,  yes,"oracle, AWS"
+"Egypt, Cairo",Female,41-45,Y,Masters,KES 527736,Yes,no,yes,Yes,"oracle, AWS"
+"Nigeria, Abuja",female,31-35,No,    PhD,KES 255948,Yes,Yes,TRUE,yes,Digital ocean
+"  Kenya,   Nairobi",Female,41-45,Yes,Bachelors,527736/=,Yes,no,No,No,AWS
+"Kenya, Narobi  ",Male,26-30,Yes,Master,KES 383040,N,yes,No,No,"oracle, AWS"
+"Nigeria, Abuja",Female,36-40,yes,Master,KES 305124,yes ,Yes,Yes,No,Amazon Web Services
+"Rwanda, Kigali", Female,31-35,No,Bachelers,Missing,Yes,no,yes,Yes,Oracle
+"Egypt,   Cairo",F,41-45,Y,   Masters,KES 527736,Yes,no , yes,Yes,"oracle, Amazon"
+"Nigeria, Lagos",Male,31-35, NO,Bachelors,KES 428628,No,N,No,No,"AWS, Azure, Google"

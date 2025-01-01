@@ -1,0 +1,21 @@
+id,region,highbp,sex,race,age,height,weight,bpsystolic,bpdiastolic,cholesterol,hemoglobin
+1401,South,N,F,White,41,152.3,48.76,108,66,179,10.9
+1652,West,N,M,Other,25,160.3,53.3,98,60,113,13.9
+1735,South,N,M,Black,53,177.7,96.62,106,56,184,10.3
+2675,West,Y,F,White,69,169.2,58.51,140,55,235,11.4
+12419,North West,Y,M,Other,69,172.2,62.03,150,88,198,11.3
+12664,North East,N,F,White,39,168,56.93,120,80,231,10.1
+13666,North West,N,M,White,68,164.1,73.37,130,80,218,11.5
+15407,South,N,F,Other,21,169.8,50.35,100,64,161,11.9
+15523,West,Y,F,White,66,169.1,58.17,140,76,190,8.7
+19706,West,Y,F,White,55,161.8,64.52,170,86,180,9
+29472,North East,N,M,White,63,174.3,60.67,125,70,221,14.2
+32639,North East,N,F,Black,43,181.8,69.51,118,75,171,9.5
+33682,South,N,F,White,31,164.1,66.23,90,60,174,11.2
+43664,North West,N,F,Other,64,166.4,65.89,102,75,195,14.6
+43739,North East,N,F,White,33,160.4,66.79,125,80,182,12.4
+44494,North West,Y,M,White,24,180.7,86.3,140,84,208,15.7
+46424,North West,Y,F,Black,44,166.4,85.28,150,94,216,11.4
+50679,South,N,F,White,37,163.6,49.33,126,86,179,12.3
+56658,South,N,F,White,42,160.2,50.35,110,70,166,9
+58693,North West,Y,F,Black,35,157,81.31,140,90,230,13
